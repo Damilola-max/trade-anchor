@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "canonical_json": "{\"balance\":0.16,\"commission\":0,\"lot\":0.01,\"priceclose\":206.849,\"priceopen\":206.882,\"profit\":-0.05,\"stoploss\":206.851,\"swap\":0,\"symbol\":\"gbpjpy\",\"takeprofit\":0,\"ticket\":49284370,\"time\":\"2025-11-28 07:20:26\",\"timeclose\":\"2025-11-28 07:30:09\",\"type\":\"sell\"}",
+      "sha256": "630a5173cc525c66e2ca8f839b3020cca4d6f0730474210a42ebc3ab95f10f52",
+      "tx_trade": "0xc4310d500c4d13887a8398d7f7f395ad75aac91a90e813199cd521dd739c1084"
+    }
+  ],
+  "batch_root": null,
+  "tx_batch": null
+}

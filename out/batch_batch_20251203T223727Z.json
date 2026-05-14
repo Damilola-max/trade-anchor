@@ -1,0 +1,20 @@
+{
+  "batch_id": "batch_20251203T223727Z",
+  "merkle_root_hex": "795f153181006b42dd2e925a09306bf8ce62bdaf856bff4614c1915acffcce0d",
+  "onchain_tx_hash": "0x0820a5d467e9278e8ce1dc409c1b74640e2c37f027bf3337015ee27c30cacb2b",
+  "items": [
+    {
+      "trade_id": "49284370",
+      "leaf_sha256_hex": "795f153181006b42dd2e925a09306bf8ce62bdaf856bff4614c1915acffcce0d",
+      "merkle_index": 0,
+      "merkle_root_hex": "795f153181006b42dd2e925a09306bf8ce62bdaf856bff4614c1915acffcce0d",
+      "batch_id": "batch_20251203T223727Z",
+      "onchain_tx_hash": "0x0820a5d467e9278e8ce1dc409c1b74640e2c37f027bf3337015ee27c30cacb2b",
+      "ipfs": {
+        "Name": "trade_49284370.json",
+        "Hash": "QmamVeGgGH6PrgNgxLoxeigBQ1HLrDAjxYBKDSFfWxvi5H",
+        "Size": "332"
+      }
+    }
+  ]
+}
